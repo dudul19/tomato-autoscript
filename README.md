@@ -17,9 +17,6 @@ SSH · OpenVPN · VMess · VLESS · Trojan · ZiVPN · HCR · BHTTP · SlowDNS �
   <img src="https://img.shields.io/badge/Website-tomatosc.my.id-ec185d?style=for-the-badge" alt="Website">
 </a>
 
-<img src="https://img.shields.io/badge/version-3.4-ec185d?style=flat-square">
-<img src="https://img.shields.io/badge/OS-Debian%20·%20Ubuntu-555?style=flat-square">
-
 </div>
 
 <div align="center">
